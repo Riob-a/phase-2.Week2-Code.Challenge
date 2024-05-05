@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phase-2.Week2-Code.Challenge/static/css/main.39d5d4e4.css",
-    "main.js": "/phase-2.Week2-Code.Challenge/static/js/main.89393000.js",
+    "main.css": "/phase-2.Week2-Code.Challenge/static/css/main.d39aacb7.css",
+    "main.js": "/phase-2.Week2-Code.Challenge/static/js/main.009bf8f3.js",
     "static/js/453.52e1f0e5.chunk.js": "/phase-2.Week2-Code.Challenge/static/js/453.52e1f0e5.chunk.js",
     "index.html": "/phase-2.Week2-Code.Challenge/index.html",
-    "main.39d5d4e4.css.map": "/phase-2.Week2-Code.Challenge/static/css/main.39d5d4e4.css.map",
-    "main.89393000.js.map": "/phase-2.Week2-Code.Challenge/static/js/main.89393000.js.map",
+    "main.d39aacb7.css.map": "/phase-2.Week2-Code.Challenge/static/css/main.d39aacb7.css.map",
+    "main.009bf8f3.js.map": "/phase-2.Week2-Code.Challenge/static/js/main.009bf8f3.js.map",
     "453.52e1f0e5.chunk.js.map": "/phase-2.Week2-Code.Challenge/static/js/453.52e1f0e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39d5d4e4.css",
-    "static/js/main.89393000.js"
+    "static/css/main.d39aacb7.css",
+    "static/js/main.009bf8f3.js"
   ]
 }
