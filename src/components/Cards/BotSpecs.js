@@ -2,6 +2,7 @@ import React, { useEffect } from "react"
 // import { useParams, useNavigate } from "react-router-dom";
 
 function BotSpecs(props) {
+
   
     return (
     <div className="container col-4 p-2 m-3 bg-black rounded  ">
