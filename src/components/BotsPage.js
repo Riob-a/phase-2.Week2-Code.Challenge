@@ -12,7 +12,7 @@ function BotsPage() {
   const [botSpecs, setBotSpecs] = useState({});
 
   useEffect(() => {
-    fetch('http://localhost:4000/bots')
+    fetch('https://week2-code-challenge-db.onrender.com/bots')
       .then(response => response.json())
       .then(bots => {
 
@@ -49,7 +49,7 @@ function BotsPage() {
     setFilteredCollection(newFilteredCollection);
     setBotArmy(newArmy);
 
-    fetch(`http://localhost:4000/bots/${bot.id}`, {
+    fetch(`https://week2-code-challenge-db.onrender.com/bots/${bot.id}`, {
 
       method: 'DELETE',
       headers: {
